@@ -1,0 +1,25 @@
+form{
+    margin: 0;
+}
+
+@font-face{
+	font-family:fontea;
+	src:url('../../api/fontes/fontea.woff');
+	font-size:16px;
+}
+@font-face{
+	font-family:fonteb;
+	src:url('../../api/fontes/fonteb.woff');
+	font-size:16px;
+}
+@font-face{
+	font-family:fontec;
+	src:url('../../api/fontes/fontec.woff');
+	font-size:16px;
+}
+@font-face{
+	font-family:fonted;
+	src:url('../../api/fontes/fonted.woff');
+	font-size:16px;
+}
+
